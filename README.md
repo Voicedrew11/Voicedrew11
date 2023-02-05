@@ -1,3 +1,3 @@
 # Hey there! 👋
 
-[Visit my website!](Voicedrew11.github.io)
+[Visit my website!](voicedrew11.github.io)
